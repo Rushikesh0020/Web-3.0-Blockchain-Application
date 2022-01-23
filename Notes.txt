@@ -1,0 +1,11 @@
+
+A: React
+1. Vite: Next Generation Frontend Tooling
+	- installs and starts react appln in seconds
+2. Create React app with Tailwind Css 
+
+
+
+B: Smart Contract
+1. npm init -y: Initilizes empty package.json
+2. npm i ethers => Allow us to iteract with blockchain and smart Contract
