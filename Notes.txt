@@ -30,3 +30,6 @@ B: Smart Contract
 		b) Solidity Smart Contract
 		c) Script to deploy contract
 14. Run Command: npx hardhat run scripts/deploy.js --network ropsten 
+15. Compiling 1 file with 0.8.0
+	Solidity compilation finished successfully
+	Transactions deployed to: 0xfd4DA447a023B9DF34ccF0441e34f80D624f1b10
